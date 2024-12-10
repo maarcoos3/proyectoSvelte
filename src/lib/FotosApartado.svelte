@@ -1,6 +1,4 @@
-<script>
 
-</script>
   
   <div class="contenedor-apartados-imagenes">
 

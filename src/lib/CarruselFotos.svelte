@@ -69,11 +69,11 @@
   </div>
   
   <style>
-    body {
+    /* body {
       font-family: 'LV', sans-serif;
       margin: 0;
       padding: 0;
-    }
+    } */
   
     .contendor-carrusel-principal {
       max-width: 90%;

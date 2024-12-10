@@ -27,6 +27,7 @@
           <li><i class="fas fa-map-marker-alt"></i> C. de Serrano, 66, Madrid</li>
         </ul>
         <div class="social-card">
+          <!-- svelte-ignore a11y_consider_explicit_label -->
           <button class="Btn whatsapp">
             <span class="svgContainer">
               <svg xmlns="http://www.w3.org/2000/svg" height="1.6em" fill="white" viewBox="0 0 448 512">
@@ -36,6 +37,7 @@
             <span class="BG"></span>
           </button>
   
+          <!-- svelte-ignore a11y_consider_explicit_label -->
           <button class="Btn instagram">
             <span class="svgContainer">
               <svg height="1.6em" viewBox="0 0 448 512" fill="white">
@@ -45,6 +47,7 @@
             <span class="BG"></span>
           </button>
   
+          <!-- svelte-ignore a11y_consider_explicit_label -->
           <button class="Btn x-app">
             <span class="svgContainer">
               <svg height="1.4em" viewBox="0 0 24 24" fill="white" xmlns="http://www.w3.org/2000/svg">
@@ -78,10 +81,10 @@
     .footer-section.contact {
       max-width: 350px;
     }
-    .footer-section h3 {
+    /* .footer-section h3 {
       font-size: 24px;
       margin-bottom: 20px;
-    }
+    } */
     .footer-section p {
       font-size: 16px;
       line-height: 1.5;

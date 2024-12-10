@@ -1,6 +1,4 @@
-<script>
-</script>
-  
+ 
   <div class="descripcion-container">
     <h2>Sobre Nosotros</h2>
     <p>

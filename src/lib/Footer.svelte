@@ -1,6 +1,3 @@
-<script>
-    // Aquí puedes incluir cualquier lógica en caso de ser necesario.
-  </script>
   
   <footer class="footer">
     <div class="footer-content">

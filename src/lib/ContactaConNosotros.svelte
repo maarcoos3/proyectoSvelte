@@ -1,6 +1,3 @@
-<script>
-    // En Svelte no necesitas importar CSS externo, todo se maneja aquí
-  </script>
 
 <div class="div-externo-contacta">
     <h1 class="texto-contacta-con-nosotros">Contacta con nosotros</h1>
